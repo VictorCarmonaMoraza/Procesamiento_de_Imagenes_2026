@@ -1,0 +1,77 @@
+# ============================
+# 🧠 Python / Deep Learning
+# ============================
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+deep_learning/
+
+# Archivos de cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales o de logs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Datos temporales o de entrenamiento
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.pkl
+*.ckpt
+*.tfrecord
+*.weights
+*.cfg
+
+# Carpeta de resultados o salidas
+output/
+outputs/
+results/
+models/
+checkpoints/
+
+# Archivos multimedia grandes
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mov
+
+# Archivos comprimidos
+*.zip
+*.tar.gz
+*.rar
+
+# Configuración de entornos
+.env
+*.env
+
+# ============================
+# 🧩 IDEs
+# ============================
+
+# VSCode
+.vscode/
+
+# PyCharm / JetBrains
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
